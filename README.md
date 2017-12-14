@@ -1,2 +1,0 @@
-# iddivue
-iddi project
